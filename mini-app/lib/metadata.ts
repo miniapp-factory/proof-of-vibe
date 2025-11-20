@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Proof-of-Vibe – The On-Chain Mood & Reputation Layer";
+export const description = "Proof-of-Vibe is an AI-powered mini app for Base that reads your on-chain history to generate a dynamic Vibe Card, a shareable NFT that reflects your crypto personality, risk profile, and community alignment. Connect your wallet once, and let the AI craft a daily Vibe Card with rare traits, a live Vibe Score, and a swipe‑style Vibe Match interface. Monetize with premium frames, leaderboard boosts, and sponsor badges. Fully on‑chain provenance on Base.";
 export const url = process.env.NEXT_PUBLIC_URL;
